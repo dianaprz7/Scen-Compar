@@ -1,4 +1,4 @@
-# Scen-Compar
+# Scenario-Comparisson
 
 Link to the live site https://dianaprz7.github.io/Scen-Compar/.
 
